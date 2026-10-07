@@ -60,18 +60,6 @@ Steam Next Fest 2027, lancio previsto sulla seconda meta del 2027.
 
 <br/>
 
-## Attivita'
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KioFatto/KioFatto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KioFatto/KioFatto/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/KioFatto/KioFatto/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://raw.githubusercontent.com/KioFatto/KioFatto/master/KioFatto.svg" width="100%" alt="Metrics"/>
-
-<br/>
-
 ## Contatti
 
 [![itch.io](https://img.shields.io/badge/itch.io-kiofatto-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kiofatto.itch.io)
