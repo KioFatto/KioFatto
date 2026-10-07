@@ -1,89 +1,77 @@
-# 🎮 KioFatto
+<!--
+  Perfetto? Si'?
+  Questo e' il tuo profilo: repo con lo stesso nome dello username.
+  Modifica pure bio, progetti e contatti.
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF00&vCenter=true&width=600&lines=Game+Designer;Godot+Developer;GDScript+Specialist;Creative+Builder" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=478CBF:2C2D72&height=250&section=header&text=KioFatto&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50)
 
-## 👋 About me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=400&color=478CBF&center=true&vCenter=true&width=600&height=45&lines=Game+Developer;Godot+Engine+%7C+GDScript;Da+un+campo+di+bug+a+davvero+bug" alt="Typing SVG" />
+</a>
 
-I'm a **Game Designer** and **Godot developer** passionate about creating engaging games and interactive experiences.  
-My focus is on **gameplay**, **mechanics**, **design decisions**, and turning ideas into playable projects.
+## Ciao, sono KioFatto
 
-Right now, my main project is **Green Invaders** — a game where I explore design, systems, and visual polish through the Godot Engine.
+**Game developer italiano** che costruisce mondi in **Godot Engine**.
+Ogni progetto inizia con mille idee e finisce, come tutti i progetti, pieno di bug.
 
-- 🎮 Game design and mechanics
-- 🧩 Godot + GDScript development
-- ✨ Shader work and visual polish
-- 🕹️ Building fun, playable experiences
-- 🚀 Learning through experimentation and iteration
+<br/>
 
-## 🛠️ Tech Stack
+## In lavorazione
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript" />
-  <img src="https://img.shields.io/badge/GDShader-00FF00?style=for-the-badge&logo=godot-engine&logoColor=black" alt="GDShader" />
-  <img src="https://img.shields.io/badge/Game%20Design-FF6B9D?style=for-the-badge" alt="Game Design" />
-</p>
+[**Bugstacks**](https://github.com/KioFatto/Bugstacks) — un gioco in Godot tutto sugli insetti.
+Shader di fogliame, nemici, menu e colonna sonora custom. WIP.
 
-## 🎯 Main Project
+<br/>
 
-### 🟢 [Green Invaders](https://github.com/KioFatto/Green-Invaders-New)
-My main project and signature work.  
-A space-invaders-inspired game developed in Godot using GDScript and custom visual effects.
+## Tech stack
 
-- Gameplay-focused design
-- Enemy behaviors and game systems
-- Visual polish and atmosphere
-- Iterative improvement of the player experience
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**80% GDScript | 20% GDShader**
+<br/>
 
-## 📊 GitHub Stats
+## Progetti
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KioFatto&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff" alt="GitHub Stats" />
-</p>
+[![Bugstacks](https://github-readme-stats.vercel.app/api/pin/?username=KioFatto&repo=Bugstacks&theme=transparent&title_color=478CBF&text_color=c9d1d9)](https://github.com/KioFatto/Bugstacks)
+[![Lua-Terminal](https://github-readme-stats.vercel.app/api/pin/?username=KioFatto&repo=Lua-Terminal&theme=transparent&title_color=478CBF&text_color=c9d1d9)](https://github.com/KioFatto/Lua-Terminal)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KioFatto&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff" alt="Top Languages" />
-</p>
+<br/>
 
-## 🚀 Current Focus
+## Stats
 
-- Improving Green Invaders
-- Designing more engaging mechanics
-- Exploring visual feedback and gameplay feel
-- Building polished game systems with Godot
+<img src="https://github-readme-stats.vercel.app/api?username=KioFatto&show_icons=true&count_private=true&theme=transparent&title_color=478CBF&icon_color=478CBF&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KioFatto&layout=compact&theme=transparent&title_color=478CBF&text_color=c9d1d9&hide_border=true" alt="Top Languages" height="180"/>
 
-## 💡 Design Philosophy
+<br/>
 
-> Great games are not just technically correct — they are **fun**, **readable**, and **satisfying** to play.
+## Attivita'
 
-I care about the player experience: clarity, responsiveness, mood, and a strong sense of interaction.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KioFatto/KioFatto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KioFatto/KioFatto/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/KioFatto/KioFatto/output/github-contribution-grid-snake.svg">
+</picture>
 
-## 🔗 Connect with me
+<img src="https://raw.githubusercontent.com/KioFatto/KioFatto/master/KioFatto.svg" width="100%" alt="Metrics"/>
 
-<p align="left">
-  <a href="https://github.com/KioFatto">
-    <img src="https://img.shields.io/badge/GitHub-KioFatto-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://kiofatto.itch.io/">
-    <img src="https://img.shields.io/badge/itch.io-KioFatto-FF0B34?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" />
-  </a>
-  <a href="https://linktr.ee/kio.gamedev">
-    <img src="https://img.shields.io/badge/Linktree-kio.gamedev-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
-</p>
+<br/>
 
----
+## Contatti
 
-<p align="center">
-  <sub>🎮 Building games. Designing systems. Creating fun experiences.</sub>
-</p>
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=0d1117)](https://USER.itch.io)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/USER)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/KioFatto)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KioFatto&color=00FF00&style=flat-square" alt="Profile Views" />
-</p>
+<!-- Sostituisci https://USER.itch.io e https://x.com/USER con i tuoi profili -->
+<!-- Se non li hai, cancella le righe -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=478CBF:2C2D72&height=120&section=footer)
+
+</div>
