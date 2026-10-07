@@ -8,15 +8,16 @@
 
 ## 👋 About me
 
-I'm a **Game Designer** and **Godot Developer** passionate about creating engaging games and interactive experiences. My focus is on **game mechanics**, **design**, and bringing ideas to life through **GDScript** and the **Godot Engine**.
+I'm a **Game Designer** and **Godot developer** passionate about creating engaging games and interactive experiences.  
+My focus is on **gameplay**, **mechanics**, **design decisions**, and turning ideas into playable projects.
 
-Currently working on **Green Invaders** — my main project — while exploring game design patterns, mechanics, and creative problem-solving.
+Right now, my main project is **Green Invaders** — a game where I explore design, systems, and visual polish through the Godot Engine.
 
-- 🎮 **Godot Engine** specialist (GDScript + GDShader)
-- 🎯 Passionate about game design and mechanics
-- 💡 Focused on creating fun and polished gameplay experiences
-- 🚀 Building Green Invaders as my signature project
-- 📚 Always learning and experimenting with game development
+- 🎮 Game design and mechanics
+- 🧩 Godot + GDScript development
+- ✨ Shader work and visual polish
+- 🕹️ Building fun, playable experiences
+- 🚀 Learning through experimentation and iteration
 
 ## 🛠️ Tech Stack
 
@@ -24,30 +25,21 @@ Currently working on **Green Invaders** — my main project — while exploring 
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript" />
   <img src="https://img.shields.io/badge/GDShader-00FF00?style=for-the-badge&logo=godot-engine&logoColor=black" alt="GDShader" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Game%20Design-FF6B9D?style=for-the-badge" alt="Game Design" />
 </p>
 
-## 🎯 Featured Projects
+## 🎯 Main Project
 
-### 🟢 [Green Invaders](https://github.com/KioFatto/Green-Invaders-New) — Main Project
-My signature game project built with **Godot Engine**. A space invaders-inspired game featuring custom **GDScript** gameplay logic and **GDShader** visual effects.
+### 🟢 [Green Invaders](https://github.com/KioFatto/Green-Invaders-New)
+My main project and signature work.  
+A space-invaders-inspired game developed in Godot using GDScript and custom visual effects.
+
+- Gameplay-focused design
+- Enemy behaviors and game systems
+- Visual polish and atmosphere
+- Iterative improvement of the player experience
 
 **80% GDScript | 20% GDShader**
-
-Focused on:
-- Polished game mechanics
-- Enemy AI and behavior systems
-- Custom visual effects and shaders
-- Engaging player experience
-
-### 🐛 [Bugstacks](https://github.com/KioFatto/Bugstacks)
-A **Godot** game project exploring gameplay mechanics and design patterns.
-
-**94.3% GDScript | 5.7% GDShader**
-
-### 🖲️ [Lua-Terminal](https://github.com/KioFatto/Lua-Terminal)
-A terminal utility built in **Lua** for command-line scripting and tools.
 
 ## 📊 GitHub Stats
 
@@ -61,32 +53,35 @@ A terminal utility built in **Lua** for command-line scripting and tools.
 
 ## 🚀 Current Focus
 
-**Green Invaders** — polishing mechanics, refining gameplay feel, and pushing the visual design forward.
-
-**Learning & Experimenting** with:
-- Advanced GDScript patterns for game architecture
-- Custom shaders for visual effects
-- Game design best practices
-- Player experience optimization
+- Improving Green Invaders
+- Designing more engaging mechanics
+- Exploring visual feedback and gameplay feel
+- Building polished game systems with Godot
 
 ## 💡 Design Philosophy
 
-> Build games that are **fun to play**, **beautiful to look at**, and **well-architected** under the hood.
+> Great games are not just technically correct — they are **fun**, **readable**, and **satisfying** to play.
 
-Focused on creating gameplay experiences that feel responsive, polished, and engaging.
+I care about the player experience: clarity, responsiveness, mood, and a strong sense of interaction.
 
-## 📞 Get in touch
+## 🔗 Connect with me
 
 <p align="left">
   <a href="https://github.com/KioFatto">
     <img src="https://img.shields.io/badge/GitHub-KioFatto-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://kiofatto.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-KioFatto-FF0B34?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" />
+  </a>
+  <a href="https://linktr.ee/kio.gamedev">
+    <img src="https://img.shields.io/badge/Linktree-kio.gamedev-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>🎮 Designing games. Building with Godot. Creating interactive experiences. One commit at a time.</sub>
+  <sub>🎮 Building games. Designing systems. Creating fun experiences.</sub>
 </p>
 
 <p align="center">
