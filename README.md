@@ -65,12 +65,9 @@ Shader di fogliame, nemici, menu e colonna sonora custom. WIP.
 
 ## Contatti
 
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=0d1117)](https://USER.itch.io)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/USER)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/KioFatto)
-
-<!-- Sostituisci https://USER.itch.io e https://x.com/USER con i tuoi profili -->
-<!-- Se non li hai, cancella le righe -->
+[![itch.io](https://img.shields.io/badge/itch.io-kiofatto-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kiofatto.itch.io)
+[![Linktree](https://img.shields.io/badge/Linktree-kio.gamedev-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kio.gamedev)
+[![GitHub](https://img.shields.io/badge/GitHub-KioFatto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KioFatto)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=478CBF:2C2D72&height=120&section=footer)
 
